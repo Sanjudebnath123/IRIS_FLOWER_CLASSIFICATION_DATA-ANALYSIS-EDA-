@@ -1,4 +1,4 @@
-# IRIS FLOWER CLASSIFICATION DATA ANALYSIS (EDA)
+<h1 align="center">IRIS FLOWER CLASSIFICATION DATA ANALYSIS (EDA)</h1>
 <p align="center">  
   <img width="600" height=" 400" src="IRIS EDA PLOTS/christina-brinza-TXmV4YYrzxg-unsplash.jpg">
 </p>
@@ -96,6 +96,11 @@ Pairplots
 Conclusion :
 -
 The Iris flower dataset is a classic dataset used for machine learning and statistical analysis. It contains measurements of features from three species of Iris flowers: Setosa, Versicolor, and Virginica. Key conclusions drawn from analyzing the dataset include feature importance, classification of species, model evaluation, comparison of algorithms, and insights into flower morphology. Overall, it serves as a valuable resource for learning and experimenting with various data analysis techniques.
+
+Tools used :
+-
+<p align="left" <a target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/60ef9d8e7273373857bd6fb871678ef4fc5367433589be0da330d6972a305bda/68747470733a2f2f70616e6461732e7079646174612e6f72672f7374617469632f696d672f70616e6461735f77686974652e737667" alt="Pandas" width="100" height="100" /> </a> <a align="left" <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" alt="NumPy" width="100" height="100" /> </a> 
+
 
 
 Crafted by :
